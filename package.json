@@ -1,0 +1,27 @@
+{
+  "name": "sitc-geo-checkin",
+  "version": "1.0.0",
+  "description": "Uses user's location to verify that they are at an SITC carpool or project site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tristanlopus/sitc-geo-checkin.git"
+  },
+  "keywords": [
+    "typescript",
+    "geospatial",
+    "Summer",
+    "in",
+    "the",
+    "City"
+  ],
+  "author": "Tristan Lopus",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/tristanlopus/sitc-geo-checkin/issues"
+  },
+  "homepage": "https://github.com/tristanlopus/sitc-geo-checkin#readme"
+}
