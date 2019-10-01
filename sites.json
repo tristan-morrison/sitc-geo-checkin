@@ -1,0 +1,61 @@
+{
+    "lms": {
+        "Name": "Latino Mission Society",
+        "Address": "1450 McKinstry Street, Detroit, MI",
+        "Latitude": 42.316870,
+        "Longitude": -83.094710,
+        "Carpool Attendance": [
+            "rec8tLLqpyaLgvGh3",
+            "recExnriP4FZrhRgt"
+        ],
+        "Shortname": "LMS",
+        "Initials": "LMS",
+        "Record ID": "recDHfykEKU1aNfzF"
+    },
+    "clark": {
+        "Name": "Clark Park",
+        "Address": "1130 Clark St., Detroit, MI 48209",
+        "Latitude": 42.311540,
+        "Longitude": -83.089590,
+        "Carpool Attendance": [
+            "rec9gYo7clWNz7S5z"
+        ],
+        "Shortname": "Clark Park",
+        "Initials": "CP",
+        "Record ID": "rec2otZrrdH1iYo9C"
+    },
+    "hq": {
+        "Name": "SITC Headquarters",
+        "Latitude": 42.319690,
+        "Longitude": -83.095720,
+        "Address": "1655 Clark St., Detroit, MI 48209",
+        "Carpool Attendance": [
+            "recgFKmoZ72afpmU9"
+        ],
+        "Shortname": "HQ",
+        "Initials": "HQ",
+        "Record ID": "recHT83JXxrXCJGYc"
+    },
+    "butzel": {
+        "Name": "Adams Butzel Recreation Center",
+        "Latitude": 42.394750,
+        "Longitude": -83.181380,
+        "Address": "10500 Lyndon St., Detroit, MI",
+        "Carpool Attendance": [
+            "recZZ8jcwCv3CET8t",
+            "recGhxiPlmAaVlSkU"
+        ],
+        "Shortname": "Adams Butzel",
+        "Initials": "AB",
+        "Record ID": "rec198Dd4Pa7Nokkm"
+    },
+    "williams": {
+        "Name": "Joseph Walker Williams Center",
+        "Latitude": 42.371078,
+        "Longitude": -83.096222,
+        "Address": "Joseph Walker Williams Recreation Center",
+        "Shortname": "Joseph Walker Williams",
+        "Initials": "JW",
+        "Record ID": "reciAbqMciIWuSqaJ"
+    }
+}
