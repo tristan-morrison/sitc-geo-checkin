@@ -23,5 +23,20 @@
   "bugs": {
     "url": "https://github.com/tristanlopus/sitc-geo-checkin/issues"
   },
-  "homepage": "https://github.com/tristanlopus/sitc-geo-checkin#readme"
+  "homepage": "https://github.com/tristanlopus/sitc-geo-checkin#readme",
+  "files": [
+    "lib/**/*"
+  ],
+  "devDependencies": {
+    "alsatian": "^3.0.1",
+    "typedoc": "^0.15.0",
+    "typescript": "^3.6.3",
+    "winston": "^3.2.1"
+  },
+  "dependencies": {
+    "@types/kdbush": "^1.0.2",
+    "@types/geokdbush": "^1.1.1",
+    "geokdbush": "^1.1.0",
+    "kdbush": "^3.0.0"
+  }
 }
